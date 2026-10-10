@@ -1,10 +1,10 @@
 # discOrDZApreT
 
-discOrDZApreT чинит обрыв до голосовых серверов Discord. Распаковали архив, запустили .bat от администратора — звонки снова идут.
+Новая версия с поддержкой работы Discord. Быстрее, стабильнее, надежнее
 
 discOrDZApreT чинит обрыв до голосовых серверов Discord. Распаковали архив, запустили .bat от администратора — звонки снова идут. обход блокировки Discord, Discord не подключается, Discord connecting исправить, голосовой чат Discord не работает. Windows 10 и 11, без VPN.
 
-Релиз: https://github.com/ShipwrightFoundry/discOrDZApreT/releases/latest
-Код: https://github.com/ShipwrightFoundry/discOrDZApreT
+Релиз: https://github.com/shipwrightfoundry/discOrDZApreT/releases/latest
+Код: https://github.com/shipwrightfoundry/discOrDZApreT
 Основа: https://github.com/bol-van/zapret
-Страница: https://github.com/ShipwrightFoundry/discOrDZApreT
+Страница: https://github.com/shipwrightfoundry/discOrDZApreT
